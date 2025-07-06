@@ -1,13 +1,10 @@
 ## Olá! Me chamo Lawrence.
 
 - 🖥️ Sou estudante de Engenharia da Computação
-- 🌱 Estudando Java
+- 🌱 Estudando HTML, CSS e JavaScript
 
 <a href="https://github.com/lawrst/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lawrst" />
-</a>
-<a href="https://github.com/lawrst/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawrst&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
